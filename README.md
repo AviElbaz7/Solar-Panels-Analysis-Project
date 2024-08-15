@@ -17,7 +17,7 @@ To compile and run the project, follow these steps:
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/Yarin-Shohat/Solar-Panels-Analysis-Project.git
+    git clone https://github.com/AviElbaz7/Solar-Panels-Analysis-Project/tree/main
     ```
 2. **Navigate to the project directory:**
     ```
