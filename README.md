@@ -1,4 +1,4 @@
-# SISE2601 Project Team 2 - Solar Panels Project
+# SISE2601 Project - Solar Panels Project
 
 ### Project Overview
 
